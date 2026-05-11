@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a final year engineering student pursing artificial intelligence and data science
+I'm a final year engineering student pursing artificial intelligence and data science
 
 
 ## 🌐 Socials:
